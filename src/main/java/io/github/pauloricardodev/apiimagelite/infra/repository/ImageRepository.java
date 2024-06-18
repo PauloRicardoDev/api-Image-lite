@@ -2,7 +2,6 @@ package io.github.pauloricardodev.apiimagelite.infra.repository;
 
 import io.github.pauloricardodev.apiimagelite.domain.entity.Image;
 import io.github.pauloricardodev.apiimagelite.domain.enums.ImageExtension;
-import io.github.pauloricardodev.apiimagelite.infra.repository.specs.GenericSpecs;
 import org.springframework.data.jpa.domain.Specification;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
